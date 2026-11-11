@@ -8,4 +8,4 @@ Luego realiza los siguientes comandos en el orden indicado para crear, entrar e 
 3. *pip install -r requirements.txt*
 
 Por último, deberás abrir el notebook con el código fuente del trabajo. Dentro del mismo tendrás que ir ejecutando una a una las celdas, en el orden en el que se encuentran. 
-Para abrir el notebook utiliza el comando *jupyterlab*
+Para abrir el notebook utiliza el comando *jupyter lab*
